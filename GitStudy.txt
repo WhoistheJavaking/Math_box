@@ -1,0 +1,20 @@
+git :  버전관리
+github : 원격 저장소
+
+1. 리파지토리(저장소)
+ - 프로젝트 디렉토리(숨겨진 디렉토리)
+ - 커밋이 저장되는곳
+
+2. 커밋
+ - 프로젝트 디렉토리의 특정 모습을 하나의 버전으로 남기는 행위 
+ - 주의사항
+ 1) 처음으로 커밋을 하기 전 사용자의 이름과 이메일 주소 설정
+  - git user.name "~~"
+  - git user.email "~~"
+ 2) 커밋메시지 남기기 옵션(-m)
+ 3) 어떤 파일을 커밋에 반영할지 지정해줘야함
+  - git add
+
+1. working directory에서 A.txt 파일과 B.txt 파일을 작성하고 
+2. git add A.txt와 git add B.txt를 실행해서 A.txt, B.txt 둘다 staging area에 올렸습니다.
+3. 그 다음 git commit -m "Ver_1"를 실행해서 staging area에 있는 파일들을 가져와 커밋으로 남겼습니다. 
