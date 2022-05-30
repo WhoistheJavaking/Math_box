@@ -1,0 +1,35 @@
+[33mcommit c040909784c7ded2b019ba30e806496da4c6735f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: WhoistheJavaking <104539647+WhoistheJavaking@users.noreply.github.com>
+Date:   Thu May 26 23:10:52 2022 +0900
+
+    Make README.me look nice
+
+[33mcommit 5b8d95730b1e9177329e23e350db84e608164a29[m
+Author: WhoistheJavaking <104539647+WhoistheJavaking@users.noreply.github.com>
+Date:   Wed May 25 21:47:22 2022 +0900
+
+    Add the info of calculator.py in README.md
+
+[33mcommit 491f3bd3187226cb5f8649fbac42f7bbd62bd564[m
+Author: 이민재 <lmj8761@gmail.com>
+Date:   Wed May 25 21:43:51 2022 +0900
+
+    Create README.md
+
+[33mcommit 8d1363e5cef5a5c75427c0c29c647862a4411a85[m
+Author: 이민재 <lmj8761@gmail.com>
+Date:   Wed May 25 21:17:40 2022 +0900
+
+    Finish Ch02
+
+[33mcommit 520fad9ff42f15afa29c64312b0ea83f601fb018[m
+Author: 이민재 <lmj8761@gmail.com>
+Date:   Wed May 25 21:10:34 2022 +0900
+
+    Add title comment and Create meeting-log
+
+[33mcommit a25f08a1a98140f4ea835a51f9ffa57eee3660d6[m
+Author: 이민재 <lmj8761@gmail.com>
+Date:   Wed May 25 20:57:07 2022 +0900
+
+    Create calculator.py and License
